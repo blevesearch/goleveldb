@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/syndtr/goleveldb/leveldb/errors"
-	"github.com/syndtr/goleveldb/leveldb/opt"
-	"github.com/syndtr/goleveldb/leveldb/storage"
+	"github.com/blevesearch/goleveldb/leveldb/errors"
+	"github.com/blevesearch/goleveldb/leveldb/opt"
+	"github.com/blevesearch/goleveldb/leveldb/storage"
 )
 
 var (

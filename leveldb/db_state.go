@@ -11,9 +11,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/syndtr/goleveldb/leveldb/journal"
-	"github.com/syndtr/goleveldb/leveldb/memdb"
-	"github.com/syndtr/goleveldb/leveldb/storage"
+	"github.com/blevesearch/goleveldb/leveldb/journal"
+	"github.com/blevesearch/goleveldb/leveldb/memdb"
+	"github.com/blevesearch/goleveldb/leveldb/storage"
 )
 
 var (
